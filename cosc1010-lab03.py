@@ -1,6 +1,6 @@
-# Your Name Here
+# Riley Green
 # UWYO COSC 1010
-# Submission Date
+# 9/26/24
 # Lab 03 
 # Lab Section: 
 # Sources, people worked with, help given to: 
